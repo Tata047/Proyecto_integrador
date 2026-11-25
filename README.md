@@ -2,11 +2,11 @@
 
 # Descripción
 
-Esta aplicacion wed interactiva muestra el analisi de 2000 estudiantes, cuantas horas estudian, cuantas horas duermen, su nivel de estres y su promedi. Con los fitros de la barra lateral se puede ver como los resultados  cambian.
+Esta aplicacion wed interactiva muestra el analisis de 2000 estudiantes, cuantas horas estudian, cuantas horas duermen, su nivel de estres y su promedio. Con los fitros de la barra lateral se puede ver como los resultados  cambian.
 
 Es el proyecto integrados  de primer semestre de Ingenieria de Datos e IA de la Universidas Santo Tomas, de las materias introduccion a la ingenieria de datos e ia y logica computacional.
 
-**Integrantes**: Maria Jose Pinto Peréz y Laura Sofia Vargas Lesmes
+**Integrantes**: María José Pinto Pérez y Laura Sofia Vargas Lesmes
 
 **Enlace de la app:** https://proyectointegrador-gcrh866zucs9s8o6byb4ch.streamlit.app/
 
@@ -20,8 +20,7 @@ Para este proyecto usamos el dataset Student Lifestyle Dataset de kaggle: https:
 Tiene 2000 estudiantes y 8 varibles, pero para la aplicacion usams solo 5: Student_ID, Study_Hours_Per_Day, Sleep_Hours_Per_Day, Stress_Level GPA que es el proemdio academico de 0 a 4.
 
 # Archivos del proyecto
-
-app,py
+app.py
 student_lifestyle_dataset.csv
 requirements.txt
 Proyecto.ipynb
