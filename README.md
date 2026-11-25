@@ -8,7 +8,7 @@ Es el proyecto integrados  de primer semestre de Ingenieria de Datos e IA de la 
 
 **Integrantes**: Maria Jose Pinto Peréz y Laura Sofia Vargas Lesmes
 
-**Enlace de la app:**
+**Enlace de la app:** https://proyectointegrador-gcrh866zucs9s8o6byb4ch.streamlit.app/
 
 # Pregunta guia
 
